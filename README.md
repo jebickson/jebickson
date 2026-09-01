@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Son
+# 👋 Hi, I'm Jebickson Samuel
 
 💻 Kotlin & Android Developer  
 🚀 Learning App Development + Problem Solving  
