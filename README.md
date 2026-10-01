@@ -77,8 +77,8 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: yourmail@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: jebisam12@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/jebicksonsamuel
 
 ---
 
