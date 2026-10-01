@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Jebickson Samuel
 
-💻 Kotlin & Android Developer  
 🚀 Learning App Development + Problem Solving  
 📍 India  
 
@@ -16,7 +15,6 @@
 
 ## 🧠 Skills
 
-- 💙 Kotlin  
 - ☕ Java  
 - 🐍 Python  
 - 📱 Android Development  
@@ -26,7 +24,6 @@
 
 ## 🚀 Projects
 
-- 📝 ToDo App – Task manager using Kotlin  
 - 📊 More coming soon...
 
 ---
@@ -39,15 +36,12 @@
 
 ## 🔥 Current Focus
 
-- 📱 Building Android apps  
 - 🧩 Improving problem-solving skills  
-- ⚡ Learning modern UI (Jetpack Compose)
 
 ---
 
 ## 🎯 Goals
 
-- Become a professional Android Developer  
 - Build real-world apps  
 - Contribute to open source  
 
