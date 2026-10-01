@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jebickson Samuel
 
-🚀 Learning App Development + Problem Solving  
+🚀 Learning  Development + Problem Solving  
 📍 India  
 
 ---
