@@ -44,5 +44,5 @@
 
 - Build real-world apps  
 - Contribute to open source  
-
+<img src="images/sololeveling.png" width="200"/>
 ---
