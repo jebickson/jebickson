@@ -1,48 +1,71 @@
+<!-- 🔥 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jebickson%20Samuel&fontSize=40&fontColor=ffffff" />
+
 # 👋 Hi, I'm Jebickson Samuel
 
-🚀 Learning  Development + Problem Solving  
-📍 India  
+💻 Aspiring Software Engineer  
+📍 Chennai, India  
 
 ---
 
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/jebicksonsamuel)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://jebickson.com/your-username)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:jebisam12@email.com)
-
----
-
-## 🧠 Skills
-
-- ☕ Java  
-- 🐍 Python  
-- 📱 Android Development  
-- 🎨 UI Design (Figma)  
+## 🧑‍💻 About Me
+- 🎓 B.Sc Computer Science Graduate  
+- 🚀 Building Web & Real-time Applications  
+- 🔥 Currently learning Full Stack Development  
+- 🎯 Goal: Get a Software Engineer Job  
 
 ---
 
-## 🚀 Projects
+## 🧠 Tech Stack
 
-- 📊 More coming soon...
+### 🚀 Frontend
+- HTML, CSS, JavaScript  
+- React, Next.js  
+- Tailwind CSS  
+
+### ⚙️ Backend
+- Node.js, Express  
+- Java (Basics)  
+- MySQL, MongoDB  
+
+### 🛠 Tools
+- Git & GitHub  
+- VS Code  
+- Firebase, Vercel  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=jebickson&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jebickson&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Current Focus
-
 - 🧩 Improving problem-solving skills  
+- ⚡ Building real-world projects  
 
 ---
 
 ## 🎯 Goals
-
 - Build real-world apps  
 - Contribute to open source  
-<img src="images/sololeveling.png" width="200"/>
+
 ---
+
+## 🖼️ My Banner
+
+<img src="images/sololeveling.jpg" width="300"/>
+
+---
+
+## 📫 Contact
+- 📧 Email: yourmail@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+
+---
+
+<!-- 🔥 Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
