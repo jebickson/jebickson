@@ -1,5 +1,3 @@
-<!-- 🔥 Modern Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=250&section=header&text=Jebickson%20Samuel&fontSize=45&fontColor=ffffff" />
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
