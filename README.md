@@ -63,36 +63,3 @@ I'm focused on **Generative AI and Large Language Models**: how they work, how t
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## 🚀 Projects
-
-> The engineering foundation behind the AI products I'm building toward.
-
-### 📈 [Signalist: Stock Market App](https://github.com/jebickson/signalist_stock_app)
-Full-stack stock tracking platform with auth, watchlists, price alerts, and event-driven workflows for notifications and analytics. A strong base for adding AI-powered market insights.
-**Stack:** `Next.js` · `TypeScript` · `Shadcn` · `Better Auth` · `Inngest` · `MongoDB`
-
-### ⚡ [Sportz-WebSocket: Live Match Commentary](https://github.com/jebickson/Sportz-WebSocket)
-Real-time commentary backend with a WebSocket broadcast channel, covering heartbeats, backpressure, message validation, and subscriptions. The same patterns power streaming LLM responses.
-**Stack:** `Node.js` · `Express` · `PostgreSQL` · `WebSockets`
-
-### ☁️ [CloudNotes-sam: Serverless Notes API](https://github.com/jebickson/CloudNotes-sam)
-Serverless notes API on AWS Lambda, API Gateway, and DynamoDB, deployed with AWS SAM. Experience in deploying scalable backends for AI features.
-**Stack:** `AWS Lambda` · `API Gateway` · `DynamoDB` · `Python` · `AWS SAM`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jebickson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebickson&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
-<p align="center">
-  <i>Building with LLMs and want to collaborate, or hiring for AI roles? Let's talk.</i><br/>
-  <a href="https://www.linkedin.com/in/jebicksonsamuel">Connect on LinkedIn →</a>
-</p>
